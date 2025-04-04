@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td>
-      <h3>
+      <h2>
         I’m constantly learning and experimenting with new tools, frameworks, and best practices in full-stack development. I'm also working on strengthening my grasp of Data Structures and Algorithms (DSA). I believe in writing readable, maintainable code and am always up for solving real-world problems.
-      </h3>
+      </h2>
     </td>
     <td>
       <img src="git-profile.gif" alt="Meet Paladiya" width="500"/>
