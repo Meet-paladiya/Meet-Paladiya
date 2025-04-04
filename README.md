@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Paladiya</h1>
-<h2 align="center">A passionate frontend developer🚀 from India🇮🇳 and currently pursuing a B.Tech in Computer Science. I love building modern web applications that are clean, scalable, and user-friendly. I enjoy working across the stack using technologies like Node.js, Express, React, NestJS, MySQL, MongoDB, and more..</h2>
+<h2 align="center">A passionate Fullstack developer🚀 from India🇮🇳 and currently pursuing a B.Tech in Computer Science. I love building modern web applications that are clean, scalable, and user-friendly. I enjoy working across the stack using technologies like Node.js, Express, React, NestJS, MySQL, MongoDB, and more..</h2>
 <table>
   <tr>
     <td>
